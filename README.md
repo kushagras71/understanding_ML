@@ -1,1 +1,1 @@
-# understanding_neural_nets
+# Understanding Machine Learning, Data Science and Neural Networks.
